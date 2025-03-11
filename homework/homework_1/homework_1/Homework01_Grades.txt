@@ -1,0 +1,7 @@
+Universidad San Francisco de Quito
+
+Grades for Homework 1 - Cybersecurity
+
+Luciana Valdivieso: 10/10 – Completed Part 2 exercises 3, 5, and 6.
+Josué Cárdenas: 10/10 – Completed Part 2 exercises 1, 2, and 4.
+Gustavo Terán: 10/10 – Completed Part 1 of PicoCTF.
