@@ -1,9 +1,0 @@
-Andres Herrera: 
-    Ronald Salgado 10
-    Erick Suarez 10
-Ronaldo Salgado: 
-    Andres Herrera 10
-    Erick Suarez 10
-Erick Suarez:
-    Andres Herrera 10
-    Ronaldo Salgado 10
